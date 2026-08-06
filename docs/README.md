@@ -22,7 +22,7 @@ siguiendo la plantilla [arc42](https://arc42.org/) para documentación de arquit
 La gestión ágil (épicas, historias de usuario, criterios de aceptación y priorización
 MoSCoW) se encuentra en el siguiente tablero:
 
-🔗 [Tablero de Jira/Notion]((https://academia-team-zcpwcqnr.atlassian.net/jira/software/projects/SCRUM/boards/1?filter=assignee+%3D+712020%3A12e51012-dd79-40db-b2c6-1298a5881e24&groupBy=none&atlOrigin=eyJpIjoiMjYwYTBkN2E4ZWY1NDQ5Mjg5M2ZkNzA1MWVmMGY1MDIiLCJwIjoiaiJ9))
+🔗 🔗 [Tablero de Jira/Notion](https://academia-team-zcpwcqnr.atlassian.net/jira/software/projects/SCRUM/boards/1?filter=assignee+%3D+712020%3A12e51012-dd79-40db-b2c6-1298a5881e24&groupBy=none&atlOrigin=eyJpIjoiMjYwYTBkN2E4ZWY1NDQ5Mjg5M2ZkNzA1MWVmMGY1MDIiLCJwIjoiaiJ9)
 
 ## Stack tecnológico
 - Backend: Java + Spring Boot
