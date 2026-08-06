@@ -9,7 +9,7 @@ asientos contables generados por el ERP.
 El alcance de esta documentación se centra en el Módulo de Compras del ERP.
 
 ## 3.2 Diagrama de Contexto (C1)
-![Diagrama de Contexto](./images/c1_context.png)
+![Diagrama de Contexto](./images/c1_context.jpeg)
 
 - **Administrador de Compras → Sistema ERP**: registra productos y proveedores.
 - **Sistema ERP → Sistema Contable Externo**: envía datos de facturas y asientos contables.
