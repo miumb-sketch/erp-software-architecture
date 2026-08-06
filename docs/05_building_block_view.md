@@ -1,7 +1,7 @@
 # 5. Vista de Bloques de Construcción
 
 ## 5.1 Diagrama de Contenedores (C2)
-![Diagrama de Contenedores](./images/c2_containers.png)
+![Diagrama de Contenedores](./images/c2_containers.jpeg)
 
 ## 5.2 Responsabilidad de cada contenedor
 
