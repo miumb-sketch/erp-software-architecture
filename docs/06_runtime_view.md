@@ -6,7 +6,7 @@ Historia de usuario relacionada: *"Como gestor de inventario, quiero registrar n
 productos con su información básica (nombre, descripción, unidad), para poder mantener
 un catálogo actualizado para las compras."*
 
-![Diagrama de Secuencia - Registrar Producto](./images/sequence_registrar_producto.png)
+![Diagrama de Secuencia - Registrar Producto](./images/sequence_registrar_producto.jpeg)
 
 ## 6.2 Explicación del flujo
 1. El Administrador rellena el formulario de nuevo producto en la SPA y lo envía.
